@@ -1,0 +1,5 @@
+{
+  "name": "Git Branch Name Generator",
+  "description": "Generate clean Git branch names from ticket numbers and titles.",
+  "requestFramePermissions": []
+}
